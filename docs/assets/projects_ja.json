@@ -1,0 +1,186 @@
+[
+  {
+    "id": "rhythm-game",
+    "title": "リズムゲーム",
+    "synopsis": "TypeScript と Angular で作られたリズムゲーム。League of Legends の音楽とアートワークをフィーチャーしています。",
+    "date": "February 19, 2022",
+    "techStack": [
+      "TypeScript",
+      "Angular",
+      "HTML5 Canvas",
+      "CSS"
+    ],
+    "tags": [
+      "typescript",
+      "リズム",
+      "ゲーム",
+      "ウェブゲーム",
+      "angular"
+    ],
+    "isPost": true,
+    "isDemo": true,
+    "hasComponent": true,
+    "demoArr": [
+      "game"
+    ],
+    "imgSrc": "/assets/projects/rhythm-game/kda_pic.jpg"
+  },
+  {
+    "id": "voicegengo",
+    "title": "ボイス言語（Voice Gengo）",
+    "synopsis": "日本語と英語学習者向けの発音改善に特化したコミュニティ主導の音声アプリです。",
+    "date": "March 8, 2021",
+    "techStack": [
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "Stripe API",
+      "Google Analytics",
+      "OWASP"
+    ],
+    "tags": [
+      "言語学習",
+      "フルスタック",
+      "angular",
+      "node.js",
+      "スピーチ"
+    ],
+    "isPost": true,
+    "isDemo": false,
+    "hasComponent": false,
+    "externalLink": "",
+    "imgSrc": "/assets/projects/voicegengo/voiceGengo.png"
+  },
+  {
+    "id": "frogger",
+    "title": "フロッガー",
+    "synopsis": "TypeScript と Angular で作り直されたクラシックなフロッガースタイルのアーケードゲームです。",
+    "date": "January 08, 2021",
+    "techStack": [
+      "TypeScript",
+      "Angular",
+      "HTML5 Canvas",
+      "CSS"
+    ],
+    "tags": [
+      "typescript",
+      "アーケード",
+      "ゲーム",
+      "ウェブゲーム",
+      "angular"
+    ],
+    "isPost": true,
+    "isDemo": true,
+    "hasComponent": true,
+    "demoArr": [
+      "game"
+    ],
+    "imgSrc": "/assets/projects/frogger/froggerScreen.png"
+  },
+  {
+    "id": "iot-mean-app",
+    "title": "リアルタイム IoT センサーダッシュボード（Arduino 101）",
+    "synopsis": "Arduino 101 プラットフォームのセンサーデータを RESTful API で可視化するリアルタイム IoT ダッシュボード。",
+    "date": "December 12, 2017",
+    "techStack": [
+      "Node.js",
+      "C++",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "iot",
+      "ble",
+      "arduino",
+      "intel edison",
+      "meanスタック",
+      "websockets",
+      "センサーデータ"
+    ],
+    "isPost": true,
+    "isDemo": true,
+    "hasComponent": false,
+    "demoArr": [
+      "video"
+    ],
+    "externalLink": "https://github.com/JLSeto/Arduino101",
+    "imgSrc": "/assets/projects/iot-mean-app/arduino101.jpg"
+  },
+  {
+    "id": "iot-cc2650",
+    "title": "IoT センサーダッシュボード",
+    "synopsis": "Texas Instruments の CC2650 SensorTag からのセンサーデータを可視化する IoT ウェブアプリ。",
+    "date": "December 5, 2017",
+    "techStack": [
+      "Node.js",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      "iot",
+      "ble",
+      "node.js",
+      "センサーデータ",
+      "TI SensorTag"
+    ],
+    "isPost": true,
+    "isDemo": true,
+    "hasComponent": false,
+    "demoArr": [
+      "video"
+    ],
+    "externalLink": "https://github.com/JLSeto/CC2650",
+    "imgSrc": "/assets/projects/cc2650/cc2650.jpg"
+  },
+  {
+    "id": "binary-calculator",
+    "title": "2進数計算機",
+    "synopsis": "10進数、2進数、16進数の変換ができ、64ビット符号付き・符号なし整数に対応したコンバーターです。",
+    "date": "January 30, 2021",
+    "techStack": [
+      "TypeScript",
+      "Angular"
+    ],
+    "tags": [
+      "typescript",
+      "計算機",
+      "コンバーター",
+      "フロントエンド"
+    ],
+    "isPost": false,
+    "isDemo": true,
+    "hasComponent": true,
+    "demoArr": [
+      "tool"
+    ],
+    "imgSrc": "/assets/projects/calculator/calc.png"
+  },
+  {
+    "id": "jekyll-website",
+    "title": "Jekyll ポートフォリオサイト",
+    "synopsis": "Jekyll を使って作成し、GitHub Pages でホストされている静的な個人ポートフォリオサイトです。",
+    "date": "November 11, 2017",
+    "techStack": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ],
+    "tags": [
+      "jekyll",
+      "静的サイト",
+      "ポートフォリオ",
+      "github pages"
+    ],
+    "isPost": true,
+    "isDemo": true,
+    "hasComponent": false,
+    "demoArr": [
+      "website"
+    ],
+    "externalLink": "https://jlseto.github.io/",
+    "imgSrc": "/assets/projects/jekyll/jekyll.png"
+  }
+]
